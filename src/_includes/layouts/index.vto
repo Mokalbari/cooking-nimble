@@ -6,9 +6,9 @@
     <meta name="robots" content="noindex, nofollow">
     <title>Nimble — Index</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍳</text></svg>">
-    <link rel="stylesheet" href="/reset.css">
-    <link rel="stylesheet" href="/tokens.css">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="{{ '/reset.css' |> url }}">
+    <link rel="stylesheet" href="{{ '/tokens.css' |> url }}">
+    <link rel="stylesheet" href="{{ '/styles.css' |> url }}">
   </head>
   <body>
     <header>
@@ -17,7 +17,7 @@
     <main>
       <nav class="page-list">
         {{ for item of results }}
-        <a href="{{ item.url }}" class="page-card">
+        <a href="{{ item.url |> url }}" class="page-card">
           <span class="page-card-title">{{ item.title }}</span>
           {{ if item.description }}
           <span class="page-card-desc">{{ item.description }}</span>
