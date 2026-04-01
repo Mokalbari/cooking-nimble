@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Nimble — Index</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍳</text></svg>">
+    <link rel="stylesheet" href="/reset.css">
+    <link rel="stylesheet" href="/tokens.css">
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <header>
+      <div class="site-title"><span class="site-title-gradient">Cooking</span> Nimble</div>
+    </header>
+    <main>
+      <nav class="page-list">
+        {{ for item of results }}
+        <a href="{{ item.url }}" class="page-card">
+          <span class="page-card-title">{{ item.title }}</span>
+          {{ if item.description }}
+          <span class="page-card-desc">{{ item.description }}</span>
+          {{ /if }}
+        </a>
+        {{ /for }}
+      </nav>
+    </main>
+  </body>
+</html>

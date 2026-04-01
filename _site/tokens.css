@@ -1,0 +1,36 @@
+@layer tokens {
+    :root {
+        --off-white:  oklch(0.979 0.007 88.6);
+        --near-black: oklch(0.133 0.012 264.4);
+        --grey:       oklch(0.456 0.000 0);
+        --periwinkle: oklch(0.619 0.172 264.4);
+        --pink:       oklch(0.832 0.111 349.6);
+        --cream:      oklch(0.952 0.024 88.0);
+
+        --periwinkle-40: oklch(0.619 0.172 264.4 / 0.4);
+        --pink-10:       oklch(0.832 0.111 349.6 / 0.1);
+        --pink-20:       oklch(0.832 0.111 349.6 / 0.2);
+
+        --gradient-tricolor: linear-gradient(135deg, oklch(0.832 0.111 349.6), oklch(0.952 0.024 88.0), oklch(0.619 0.172 264.4));
+
+        --font-sans: system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+        --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+        --font-size-code: 0.875em;
+        --line-height-code: 1.6;
+
+        --content-width: min(100% - 15vw, 45em);
+        --nav-padding: 2rem min(5vw, 5rem);
+        --padding-code-inline: 0.125em 0.375em;
+
+        --radius-sm:   0.375em;
+        --radius-md:   0.5em;
+        --radius-lg:   1rem;
+        --radius-pill: 1em;
+
+        --shadow-subtle: 0 0 1px oklch(0 0 0 / 0.56);
+    }
+
+    ::selection {
+        background: var(--pink-20);
+    }
+}

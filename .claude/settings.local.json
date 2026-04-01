@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://context7.com/api/v2/libs/search?libraryName=lume&query=static+site+generator+deno\" | jq '.results[0:3]')",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/websites/lume_land&query=_config.ts configuration search pages list index&type=txt\" | head -200)",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/websites/lume_land&query=_config.ts site configuration&type=txt\" | head -150)",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/lumeland/lume.land&query=getting+started+installation+_config&type=txt\" | head -200)",
+      "Bash(deno task:*)",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/lumeland/lume.land&query=copy static files assets css copy plugin&type=txt\" | head -200)",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/lumeland/lume.land&query=css copy plugin&type=txt\" | head -200)",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/lumeland/lume.land&query=copy plugin static files&type=txt\")",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/websites/lume_land&query=copy+plugin+static+files+css&type=txt\")",
+      "Bash(curl -s \"https://context7.com/api/v2/context?libraryId=/websites/lume_land&query=site.copy css files version 2&type=txt\" | head -100)",
+      "Bash(curl -s \"https://deno.land/x/lume\" | grep -o 'lume@v[0-9.]*' | head -5)",
+      "Bash(curl -sI \"https://deno.land/x/lume\" | grep -i location)",
+      "WebFetch(domain:ilyeshdz.github.io)",
+      "WebSearch",
+      "WebFetch(domain:eberron.fandom.com)"
+    ]
+  }
+}
