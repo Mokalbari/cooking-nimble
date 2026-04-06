@@ -26,6 +26,13 @@ Cela ne veut pas dire que les autres classes ne sont pas intégrables, au contra
 
 Question plus difficile. Eberron étant un univers complet et complexe, ce sera à discuter pour déterminer d'où le personnage vient. Pour vous aider à vous situer, voici un rapide tour des nations et régions de Khorvaire.
 
+Quelques questions à se poser :
+
+- Comment la Dernière Guerre a influencé ta vie ?
+- As-tu connu la guerre directement, ou ses conséquences ?
+- Quelle est ta relation avec la magie, omniprésente dans Eberron ?
+- As-tu déjà fait quelque chose que tu regrettes ?
+
 ### Aundair
 
 Aundair est la nation des lettres, du vin et des sortilèges : ses plaines fertiles nourrissent le continent, tandis que ses grandes académies de magie forment les meilleurs arcanistes de Khorvaire. La société aundairienne est cultivée, élégante et fière de son raffinement, avec une cour royale qui joue autant des intrigues politiques que des sorts. Ce qui la distingue, c'est la tension entre la beauté apparente de ses champs et châteaux et la froideur ambitieuse de ses dirigeants, toujours prêts à reprendre par la force ce que la guerre leur a coûté.
