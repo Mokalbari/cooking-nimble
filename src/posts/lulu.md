@@ -4,26 +4,33 @@ layout: layouts/base.vto
 description: Idées de personnages
 ---
 
+Les forgés ont été créés pour combattre lors de la Dernière Guerre. Si les premiers forgés n’étaient que des automates dénués d’esprit, la maison Cannith a investi d’immenses ressources pour améliorer ces soldats d’acier. Une avancée inattendue a permis de créer des soldats doués de conscience, donnant naissance à ce que certains n’acceptent qu’à contrecœur comme une nouvelle espèce.
+Les forgés sont faits de bois et de métal, mais ils peuvent ressentir la douleur et les émotions. Conçus comme des armes, ils doivent désormais trouver un but au-delà de la guerre. Un forgé peut être un allié indéfectible, un tueur au cœur froid, ou un visionnaire en quête de sens.
+
+Voici quelques questions qui vont t'aider à intégrer ton personnage dans la campagne. Tu n'es pas obligé d'y répondre formellement, et tu n'es pas obligé d'y répondre tout court ; ce sont plutôt des pistes qui t'aideront à créer ton personnage.
+
+## MUST
+
+S'il y a uniquement trois choses que tu dois retirer de cette page pour avoir le strict minimum jouable sur ta feuille personnage ce sont :
+
+- Que faisais-tu à Zilargo, dans l'expédition de la maison Cannith ? Pour rappel, la maison Cannith, maison renommée pour la qualité de ses créations, notamment les Forgés, a regroupé une petite expédition d'experts sur différents sujets. Votre groupe a fait deux choses principalement : visiter une ruine et rencontrer des ministres gnomes de Zilargo. Quelques idées : assurer la protection du groupe, explorer cette ancienne ruine, servir d'interface entre la maison Cannith et les délégations gnomes. Pour faire simple : quelle est ta motivation à l'aventure ?
+- **Particularité**. Les forgés affichent souvent un ou deux traits de personnalité inhabituels. Choisis-en un dans la liste ci-dessous, ou inventes-en un qui te correspond mieux :
+  - **Résistant** : +2 max dés de vie, +1 max blessure, - 1 vitesse. Tu connais un langage supplémentaire de ton choix.
+  - **Armure intégrée** : +2 armure, désavantage aux jets de discrétions.
+  - **Armure modulable** : +1 armure, avantage au jet de sauvegarde de son choix, jusqu'au prochain repos long.
+- **Lien**. Y a-t-il une personne — un créateur, un soldat, un allié — qui compte plus que tout pour ton personnage ? Ce lien peut être un moteur puissant pour l'aventure.
+
 ## Questions
 
-1.  Qui est la personne (ou le forgé) la plus importante pour toi, celle pour qui tu ferais tout ? Que
-    représente-t-elle dans ta nouvelle vie ?
-2.  Quelle est la mission que tu as échouée, la personne que tu n'as pas pu protéger, ou le souvenir
-    de la guerre qui te pèse le plus ?
-3.  Maintenant que la guerre est finie, quel est le but que tu t'es fixé ? Y a-t-il un mystère sur ta
-    propre existence que tu cherches à résoudre ?
-4.  Qui ou quoi te poursuit encore, ou représente une menace directe pour ta liberté ou ta nouvelle
-    vie ?
-5.  Quelle est ta particularité la plus étrange, ta petite obsession, ou la chose la plus inattendue que
-    tu aies découverte sur toi-même depuis que tu es libre ?
-6.  Quel est l'objet le plus précieux que tu possèdes, ou le petit secret que tu gardes jalousement,
-    même s'il semble insignifiant ?
+1.  Comment ton personnage connaît-il la magie ? Est-ce inné dans sa fonction ou est-ce une pratique qu'il apprend assidûment ?
+2.  Quelle est la mission que tu as échouée, la personne que tu n'as pas pu protéger, ou le souvenir de la guerre qui te pèse le plus ?
+3.  Maintenant que la guerre est finie, quel est le but que tu t'es fixé ? Y a-t-il un mystère sur ta propre existence que tu cherches à résoudre ?
+4.  Qui ou quoi te poursuit encore, ou représente une menace directe pour ta liberté ou ta nouvelle vie ?
+5.  Quelle est ta particularité la plus étrange, ta petite obsession, ou la chose la plus inattendue que tu aies découverte sur toi-même depuis que tu es libre ?
+6.  Quel est l'objet le plus précieux que tu possèdes, ou le petit secret que tu gardes jalousement, même s'il semble insignifiant ?
+7.  Il y a-t-il une personne qui compte plus que tout pour toi ? La première personne dont tu te souviennes ? La personne qui t'a créé ?
 
-## Introduction
-
-Les forgés ont été créés pour combattre lors de la Dernière Guerre. Si les premiers forgés n’étaient que des automates dénués d’esprit, la maison Cannith a investi d’immenses ressources pour améliorer ces soldats d’acier. Une avancée inattendue a permis de créer des soldats doués de conscience, donnant naissance à ce que certains n’acceptent qu’à contrecœur comme une nouvelle espèce.
-
-Les forgés sont faits de bois et de métal, mais ils peuvent ressentir la douleur et les émotions. Conçus comme des armes, ils doivent désormais trouver un but au-delà de la guerre. Un forgé peut être un allié indéfectible, un tueur au cœur froid, ou un visionnaire en quête de sens.
+Voici quelques extraits du livre d'Eberron pour te donner plus de contexte sur les Forgés. Tu n'es pas obligé de tout lire (même si je te le recommande vivement).
 
 ## Acier et pierre vivants
 
@@ -45,11 +52,11 @@ Plus un forgé développe son individualité, plus il est susceptible de modifie
 
 Les forgés affichent souvent un ou deux traits de personnalité inhabituels, en raison de leur nouveauté dans le monde. Le tableau suivant propose des exemples de particularités.
 
-Vous analysez — à voix haute — la menace potentielle que représente chaque créature que vous rencontrez.
-Vous interprétez souvent mal les indices émotionnels.
-Vous êtes farouchement protecteur envers vos amis.
-Vous essayez d’appliquer la discipline militaire à toutes les situations.
-Vous ne savez pas filtrer vos émotions et êtes sujet à des débordements dramatiques.
-Vous ne comprenez pas les vêtements au-delà de leur utilité et supposez qu’ils indiquent la fonction d’une personne.
-Vous êtes obsédé par votre apparence et vous vous astiquez et vous polissez constamment.
-La guerre est la seule chose qui a du sens pour vous, et vous cherchez toujours un combat.
+- Vous analysez — à voix haute — la menace potentielle que représente chaque créature que vous rencontrez.
+- Vous interprétez souvent mal les indices émotionnels.
+- Vous êtes farouchement protecteur envers vos amis.
+- Vous essayez d’appliquer la discipline militaire à toutes les situations.
+- Vous ne savez pas filtrer vos émotions et êtes sujet à des débordements dramatiques.
+- Vous ne comprenez pas les vêtements au-delà de leur utilité et supposez qu’ils indiquent la fonction d’une personne.
+- Vous êtes obsédé par votre apparence et vous vous astiquez et vous polissez constamment.
+- La guerre est la seule chose qui a du sens pour vous, et vous cherchez toujours un combat.
