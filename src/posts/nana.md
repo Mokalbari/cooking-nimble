@@ -8,7 +8,7 @@ Les kalashtars sont un peuple composite, né de l’union entre l’humanité et
 
 ## MUST
 
-- **Motivation.** Tu étais à Zilargo avec l'expédition de la maison Cannith. Ton esprit quori t'y a peut-être guidé, ou au contraire mis en garde. Pourquoi étais-tu là, et qu'as-tu perçu que les autres n'ont pas vu ?
+- **Motivation.** Tu étais à Zilargo avec l'expédition de la maison Cannith. Ton esprit quori t'y a peut-être guidé, ou au contraire mis en garde ou peut-être qu'on t'a engagé pour tes talents de télépathe ? Pourquoi étais-tu là, et qu'as-tu perçu que les autres n'ont pas vu ?
 - **Particularité.** Choisis-en une — ou inventes-en une :
   - **Télépathe** : tu communiques par télépathie (action) avec n'importe quelle créature à 1 km. Elle doit parler au moins une langue.
   - **De haute naissance** : ta sauvegarde désavantagée devient neutre. Tu connais le céleste si ton INT n'est pas négatif.
