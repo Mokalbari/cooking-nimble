@@ -15,7 +15,7 @@ Personnage hybride gnome/goblinoïde — un choix hors du commun. Pioche dans ce
   - **Petite, mais féroce** : à chaque attaque contre une créature plus grande que toi, +1d6 par catégorie de taille. Ils font pareil envers toi.
   - **Insaisissable** : avantage aux jets de discrétion. Réussite automatique à 1 jet de sauvegarde de ton choix, 1/repos long.
 - **Journal.** Pour quel journal écris-tu ? Quel type de contrat as-tu avec eux ? (reporter, articles people... ?)
-- Le [bonus du background](/posts/backgrounds/).
+- Le [bonus du background](../backgrounds/).
 
 Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
 

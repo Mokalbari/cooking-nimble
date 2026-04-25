@@ -14,7 +14,7 @@ Les forgés sont faits de bois et de métal, mais ils peuvent ressentir la doule
   - **Résistant** : +2 max dés de vie, +1 max blessure, -1 vitesse. Langue supplémentaire au choix.
   - **Armure intégrée** : +2 armure, désavantage en discrétion.
   - **Armure modulable** : +1 armure, avantage à 1 jet de sauvegarde au choix jusqu'au prochain repos long.
-- Le [bonus du background](/posts/backgrounds/).
+- Le [bonus du background](../backgrounds/).
 - **Lien.** Une personne qui compte plus que tout — un créateur, un soldat, un allié. Qui ?
 
 Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.

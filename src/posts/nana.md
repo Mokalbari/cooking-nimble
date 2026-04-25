@@ -13,7 +13,7 @@ Les kalashtars sont un peuple composite, né de l’union entre l’humanité et
   - **Télépathe** : tu communiques par télépathie (action) avec n'importe quelle créature à 1 km. Elle doit parler au moins une langue.
   - **De haute naissance** : ta sauvegarde désavantagée devient neutre. Tu connais le céleste si ton INT n'est pas négatif.
   - **Déphasage onirique** : réaction — tu te déphasages vers Dal Quor pour annuler les dégâts d'une attaque. 1/repos long.
-- Le [bonus du background](/posts/backgrounds/).
+- Le [bonus du background](../backgrounds/).
 - **Esprit lié.** Un nom, une nature — même vague. Guerrier, contemplatif, tourmenté ?
 
 Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
