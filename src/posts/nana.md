@@ -6,19 +6,19 @@ description: Idées de personnages
 
 Les kalashtars sont un peuple composite, né de l’union entre l’humanité et des esprits renégats issus du plan des rêves — des esprits appelés quori. Les kalashtars sont souvent perçus comme des êtres sages, spirituels et profondément compatissants. Cependant, ils possèdent une qualité étrangère indéniable, car ils sont hantés par les conflits de leurs esprits d’un autre monde.
 
-Voici quelques questions qui vont t'aider à intégrer ton personnage dans la campagne. Tu n'es pas obligé d'y répondre formellement, et tu n'es pas obligé d'y répondre tout court ; ce sont plutôt des pistes qui t'aideront à créer ton personnage.
+Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
 
 ## MUST
 
-S'il y a uniquement trois choses que tu dois retirer de cette page pour avoir le strict minimum jouable sur ta feuille personnage ce sont :
+- **Motivation.** Tu étais à Zilargo avec l'expédition de la maison Cannith. Ton esprit quori t'y a peut-être guidé, ou au contraire mis en garde. Pourquoi étais-tu là, et qu'as-tu perçu que les autres n'ont pas vu ?
+- **Particularité.** Choisis-en une — ou inventes-en une :
+  - **Télépathe** : tu communiques par télépathie (action) avec n'importe quelle créature à 1 km. Elle doit parler au moins une langue.
+  - **De haute naissance** : ta sauvegarde désavantagée devient neutre. Tu connais le céleste si ton INT n'est pas négatif.
+  - **Déphasage onirique** : réaction — tu te déphasages vers Dal Quor pour annuler les dégâts d'une attaque. 1/repos long.
+- Le [bonus du background](/posts/backgrounds/).
+- **Esprit lié.** Un nom, une nature — même vague. Guerrier, contemplatif, tourmenté ?
 
-- Que faisais-tu à Zilargo, dans l'expédition de la maison Cannith ? Pour rappel, la maison Cannith, maison renommée pour la qualité de ses créations, notamment les Forgés, a regroupé une petite expédition d'experts sur différents sujets. Votre groupe a fait deux choses principalement : visiter une ruine et rencontrer des ministres gnomes de Zilargo. Quelques idées : servir de médiateur grâce à tes capacités psioniques, percevoir les intentions cachées des interlocuteurs, explorer la ruine en quête de traces d'activité onirique ou de présence quori. Pour faire simple : quelle est ta motivation à l'aventure ?
-- **Particularité**. Les kalashtars affichent souvent des comportements inhabituels liés à leur esprit quori. Choisis-en un dans la liste ci-dessous, ou inventes-en un qui te correspond mieux :
-  - **Télépathe**. Tu peux communiquer par téléphatie au prix d'une action avec une créature de ton choix, dans un rayon d'1km. Tu n'es pas obligée de parler la même langue que ton interlocuteur, mais ton interlocuteur doit parler au moins une langue.
-  - **De haute naissance**. Ta sauvegarde désavantagée est désormais neutre. Tu connais le céleste si ton INT n'est pas négatif.
-  - **Déphasage onirique**. Lorsque tu es touché par une attaque, tu peux utiliser ta réaction pour te déphaser brièvement vers le plan des rêves, puis revenir immédiatement sur le plan matériel. Tu ne subis aucun des dégâts de cette attaque.
-    Tu peux utiliser cette capacité une fois par repos long.
-- **Esprit lié**. Quel est le nom et la nature de ton esprit quori ? Même une réponse vague (un guerrier, un contemplatif, un esprit tourmenté) suffit pour commencer.
+Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
 
 ## Questions
 

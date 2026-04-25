@@ -7,18 +7,19 @@ description: Idées de personnages
 Les forgés ont été créés pour combattre lors de la Dernière Guerre. Si les premiers forgés n’étaient que des automates dénués d’esprit, la maison Cannith a investi d’immenses ressources pour améliorer ces soldats d’acier. Une avancée inattendue a permis de créer des soldats doués de conscience, donnant naissance à ce que certains n’acceptent qu’à contrecœur comme une nouvelle espèce.
 Les forgés sont faits de bois et de métal, mais ils peuvent ressentir la douleur et les émotions. Conçus comme des armes, ils doivent désormais trouver un but au-delà de la guerre. Un forgé peut être un allié indéfectible, un tueur au cœur froid, ou un visionnaire en quête de sens.
 
-Voici quelques questions qui vont t'aider à intégrer ton personnage dans la campagne. Tu n'es pas obligé d'y répondre formellement, et tu n'es pas obligé d'y répondre tout court ; ce sont plutôt des pistes qui t'aideront à créer ton personnage.
+Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
 
 ## MUST
 
-S'il y a uniquement trois choses que tu dois retirer de cette page pour avoir le strict minimum jouable sur ta feuille personnage ce sont :
+- **Motivation.** Tu étais à Zilargo avec l'expédition de la maison Cannith — celle qui t'a créé, ou qui te possède encore peut-être. Pourquoi étais-tu là ? Ordre reçu, mission personnelle, ou quelque chose de plus trouble ?
+- **Particularité.** Choisis-en une — ou inventes-en une :
+  - **Résistant** : +2 max dés de vie, +1 max blessure, -1 vitesse. Langue supplémentaire au choix.
+  - **Armure intégrée** : +2 armure, désavantage en discrétion.
+  - **Armure modulable** : +1 armure, avantage à 1 jet de sauvegarde au choix jusqu'au prochain repos long.
+- Le [bonus du background](/posts/backgrounds/).
+- **Lien.** Une personne qui compte plus que tout — un créateur, un soldat, un allié. Qui ?
 
-- Que faisais-tu à Zilargo, dans l'expédition de la maison Cannith ? Pour rappel, la maison Cannith, maison renommée pour la qualité de ses créations, notamment les Forgés, a regroupé une petite expédition d'experts sur différents sujets. Votre groupe a fait deux choses principalement : visiter une ruine et rencontrer des ministres gnomes de Zilargo. Quelques idées : assurer la protection du groupe, explorer cette ancienne ruine, servir d'interface entre la maison Cannith et les délégations gnomes. Pour faire simple : quelle est ta motivation à l'aventure ?
-- **Particularité**. Les forgés affichent souvent un ou deux traits de personnalité inhabituels. Choisis-en un dans la liste ci-dessous, ou inventes-en un qui te correspond mieux :
-  - **Résistant** : +2 max dés de vie, +1 max blessure, - 1 vitesse. Tu connais un langage supplémentaire de ton choix.
-  - **Armure intégrée** : +2 armure, désavantage aux jets de discrétions.
-  - **Armure modulable** : +1 armure, avantage au jet de sauvegarde de son choix, jusqu'au prochain repos long.
-- **Lien**. Y a-t-il une personne — un créateur, un soldat, un allié — qui compte plus que tout pour ton personnage ? Ce lien peut être un moteur puissant pour l'aventure.
+Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
 
 ## Questions
 

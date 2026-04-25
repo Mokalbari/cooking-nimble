@@ -4,22 +4,19 @@ layout: layouts/base.vto
 description: Idées de personnages
 ---
 
-En tant que personnage issu de deux races très différentes, voici les extraits des livres sur ces races. Libre à toi de piocher ce qui te parle le plus.
+Personnage hybride gnome/goblinoïde — un choix hors du commun. Pioche dans ce qui suit ce qui te parle le plus.
 
 ## MUST
 
-S'il y a uniquement trois choses que tu dois mettre au propre pour avoir le strict minimum jouable sur ta feuille personnage ce sont :
+- **Motivation.** Tu es journaliste — tu étais à Zilargo pour couvrir l'expédition de la maison Cannith, ou obtenir quelque chose que personne d'autre n'aurait : un accès, une confidence, un scoop. Quelle est l'histoire que tu cherchais vraiment ?
+- **Aptitude bonus.** Choisis-en une — ou propose autre chose :
+  - **Oreille fine** : 1/jour, tu peux poser une question fermée au MJ sur une personne ou une organisation présente dans la scène. Il répond honnêtement. Tu connais le gobelin si ton INT n'est pas négatif.
+  - **Optimiste** : autorise un allié à 6 cases à relancer n'importe quel dé. Se recharge quand tu es soigné à ton max HP. -1 vitesse. Tu connais le nain si ton INT n'est pas négatif.
+  - **Petite, mais féroce** : à chaque attaque contre une créature plus grande que toi, +1d6 par catégorie de taille. Ils font pareil envers toi.
+  - **Insaisissable** : avantage aux jets de discrétion. Réussite automatique à 1 jet de sauvegarde de ton choix, 1/repos long.
+- Le [bonus du background](/posts/backgrounds/).
 
-- Que faisais-tu à Zilargo, dans l'expédition de la maison Cannith ? Pour rappel, la maison Cannith, maison renommée pour la qualité de ses créations, notamment les Forgés, a regroupé une petite expédition d'experts sur différents sujets. Votre groupe a fait deux choses principalement : visiter une ruine et rencontrer des ministres gnomes de Zilargo. Quelques idées : assurer la sécurité du groupe, explorer cette ancienne ruine, rencontrer officiellement des ministres (mais officieusement quelque chose d'autre...). Pour faire simple : quelle est ta motivation à l'aventure ?
-- **Aptitude bonus**. Étant donné le choix hors-du-commun que tu as fait, voici quelques idées qui me semblent cohérentes. Tu es libre d'en trouver une autre. Choisis-en une :
-  - **Décamper** : tu peux te déplacer de 2 espaces gratuitement après que tu sois la cible d'une attaque ou d'un effet négatif (après les dégâts, en ignorant la difficulté du terrain). Tu connais le gobelin si ton INT n'est pas négatif.
-  - **Optimiste** : autorise un allié dans un espace de 6 cases à relancer n'importe quel dé. Se recharge quand tu es soigné à ton max HP. -1 vitesse. Tu connais le nain si ton INT n'est pas négatif.
-  - **Petite, mais féroce** : A chaque fois que tu fais un jet d'attaque contre une créature plus grande que toi, tu lances 1d6 supplémentaire par catégorie de taille. Ils font la même chose envers toi.
-  - **Elusive** : Avantage aux jets de discrétion. Tu réussi automatiquement le jet de sauvegarde de ton choix, 1 fois par repos long.
-  - Autre chose ? Si ça a du sens, n'hésite pas à m'en parler.
-- Le bonus du background.
-
-Maintenant qu'on a déterminé le minimum vital pour jouer. On peut se plonger un peu plus dans l'univers. Ce qui suit ce sont des extraits des livres. En plus, quelques questions qui vont t'aider à intégrer ton personnage dans la campagne. Tu n'es pas obligé d'y répondre formellement, et tu n'es pas obligé d'y répondre tout court ; ce sont plutôt des pistes qui t'aideront à créer ton personnage.
+Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
 
 ### Questions
 
