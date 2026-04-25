@@ -14,6 +14,7 @@ Personnage hybride gnome/goblinoïde — un choix hors du commun. Pioche dans ce
   - **Optimiste** : autorise un allié à 6 cases à relancer n'importe quel dé. Se recharge quand tu es soigné à ton max HP. -1 vitesse. Tu connais le nain si ton INT n'est pas négatif.
   - **Petite, mais féroce** : à chaque attaque contre une créature plus grande que toi, +1d6 par catégorie de taille. Ils font pareil envers toi.
   - **Insaisissable** : avantage aux jets de discrétion. Réussite automatique à 1 jet de sauvegarde de ton choix, 1/repos long.
+- **Journal.** Pour quel journal écris-tu ? Quel type de contrat as-tu avec eux ? (reporter, articles people... ?)
 - Le [bonus du background](/posts/backgrounds/).
 
 Ce qui suit ce sont des extraits des livres et quelques questions pour t'aider à intégrer ton personnage. Tu n'es pas obligé d'y répondre formellement.
@@ -81,6 +82,8 @@ Aujourd’hui, il existe quatre grandes cultures goblinoïdes à Khorvaire.
 Les gobelins vivent dans la plupart des grandes villes des Cinq Nations. Lorsque les humains arrivèrent à Khorvaire, ils réduisirent de nombreux gobelins en esclavage et bâtirent leurs cités sur les ruines de Dhakaan. Galifar mit fin à cette pratique, et ces gobelins sont désormais citoyens des Cinq Nations.
 
 On trouve des gobelins talentueux dans tous les domaines, et beaucoup ont servi dans les armées durant la Dernière Guerre.
+
+Contrairement aux Ghaal'dar ou aux Marguul, les gobelins des cités n'ont rien de tribal. Ils ont grandi dans les mêmes rues, fréquenté les mêmes marchés, porté les mêmes uniformes que leurs voisins humains, nains ou elfes. Ils parlent le commun sans accent, connaissent les codes sociaux des Cinq Nations, et n'ont souvent aucun lien avec Darguun ni avec les anciennes structures goblinoïdes. Pour eux, l'héritage de Dhakaan est de l'histoire ancienne — intéressante peut-être, mais pas plus personnelle que pour n'importe quel autre habitant de Sharn. Ce sont, à tous les égards, des gens ordinaires.
 
 ## Les Ghaal’dar
 
