@@ -9,5 +9,6 @@ const site = lume({
 site.add("/reset.css");
 site.add("/tokens.css");
 site.add("/styles.css");
+site.add("/aide-jeu.css");
 
 export default site;

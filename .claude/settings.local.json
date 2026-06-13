@@ -22,7 +22,8 @@
       "Bash(curl -sf https://api.github.com/repos/Mokalbari/cooking-nimble/contents/src 2>&1; echo \"EXIT:$?\")",
       "Bash(curl -sf https://raw.githubusercontent.com/Mokalbari/cooking-nimble/main/src/layouts/base.vto 2>&1; echo \"EXIT:$?\")",
       "Bash(curl -sf https://api.github.com/repos/Mokalbari/cooking-nimble/contents/src/_includes 2>&1)",
-      "Bash(curl -sf https://api.github.com/repos/Mokalbari/cooking-nimble/contents/src/_includes/layouts 2>&1)"
+      "Bash(curl -sf https://api.github.com/repos/Mokalbari/cooking-nimble/contents/src/_includes/layouts 2>&1)",
+      "Bash(grep -E \"\\\\.\\(tsx?|jsx?\\)$\")"
     ]
   }
 }
